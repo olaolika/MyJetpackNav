@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application2</string>
+    <string name="action_settings">про КАКТУСЫ</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">менеджер растений</string>
+    <string name="second_fragment_label">кактусы</string>
+    <string name="next">Подробнее</string>
+    <string name="previous">Назад</string>
+
+    <string name="hello_first_fragment">Привет</string>
+    <string name="textView3">Большинство кактусов, как жители солнечных местообитаний, особенно требовательны к свету. Свет - это главный фактор роста кактуса. Во время вегетационного периода особенно важно позаботиться о хорошем освещении. Только в течение строго соблюдаемого сухого периода - периода покоя с соответственным понижением температуры содержания - эти растения могут довольствоваться небольшим количеством света.</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
+
